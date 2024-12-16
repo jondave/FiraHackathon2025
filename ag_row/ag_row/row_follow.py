@@ -218,5 +218,5 @@ if __name__ == '__main__':
 
     line_follower = lineFollower(ROBOT, CAMERA)
     line_follower.run()
-        process_rs.kill()
+    process_rs.kill()
 
